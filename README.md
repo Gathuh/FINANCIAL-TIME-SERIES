@@ -1,2 +1,2 @@
 # FINANCIAL-TIME-SERIES
-NSE20 analysis for the four companies using r both for their prices and their volatilities in referece to exchange rate
+Used LSTM to predict stock prices. LSTM is Long Term Short  Memeory which is a reccurent Neural Networks. The data is from y finance API
